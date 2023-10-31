@@ -4,6 +4,24 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 First, run the development server:
 
+Please run the following commands listed below:
+
+npx shadcn-ui@latest init
+npx shadcn-ui@latest add button
+npm install @clerk/nextjs
+npm install typewriter-effect
+npm install lucide-react
+npx shadcn-ui@latest add separator
+npm install drizzle-orm
+npm install @neondatabase/serverless
+npm install drizzle-kit
+npm install dotenv
+npm install pg
+npx shadcn-ui@latest add input
+npm install openai-edge
+npm install @tanstack/react-query
+npm install axios
+
 ```bash
 npm run dev
 # or
